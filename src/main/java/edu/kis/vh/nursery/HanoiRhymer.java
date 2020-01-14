@@ -15,5 +15,6 @@ int totalRejected = 0;
 			else
 				super.countIn(in);
 			//komentarz do zrobienia commita
+		//komentarz do zrobienia commitax2
 	}
 }
